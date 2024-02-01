@@ -1,6 +1,9 @@
 # Migrating .yaml files to .toml
 Since alacritty devs decided to migrate from .yml to .toml for its config files, the themes in the original repository of rajasegar can no longer be used as they are, so i'll be migrating as much themes as i can.
 
+Original Repository:
+https://github.com/rajasegar/alacritty-themes.git
+
 # :rainbow: alacritty-themes :lollipop:
 
 ![Build and Deploy](https://github.com/rajasegar/alacritty-themes/workflows/Build%20and%20Deploy/badge.svg)
